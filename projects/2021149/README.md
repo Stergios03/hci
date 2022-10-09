@@ -1,16 +1,16 @@
-Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
+# Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
 
-Α.Μ : inf2021149
+### Α.Μ : inf2021149
 
-Ονοματεπώνυμο : Στέργιος Μουτζίκος
+### Ονοματεπώνυμο : Στέργιος Μουτζίκος
 
-Προφίλ Github: [Προφίλ GitHub](https://github.com/StergiosMoutzikos)
+#### Προφίλ Github: [Προφίλ GitHub](https://github.com/StergiosMoutzikos)
 
-Προφίλ Github Ομάδας: [Ομάδα GitHub](https://github.com/ContattoContare)
+#### Προφίλ Github Ομάδας: [Ομάδα GitHub](https://github.com/ContattoContare)
 
-Όνομα Προφίλ Edpuzzle: Stergios Moutzikos inf2021149
+#### Όνομα Προφίλ Edpuzzle: Stergios Moutzikos inf2021149
 
-Εξάμηνο : ΄Γ
+#### Εξάμηνο : ΄Γ
 
 <br />
 
@@ -33,7 +33,7 @@
 <br /><br />
 
 
-Εβδομάδα Πρώτη - Εισαγωγή
+## Εβδομάδα Πρώτη - Εισαγωγή
 
 <br /> 
 &nbsp;&nbsp;&nbsp;
