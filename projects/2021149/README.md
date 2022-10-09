@@ -4,9 +4,9 @@
 
 Ονοματεπώνυμο : Στέργιος Μουτζίκος
 
-Προφίλ Github: [Click] https://github.com/StergiosMoutzikos
+Προφίλ Github: [Προφίλ GitHub] (https://github.com/StergiosMoutzikos)
 
-Προφίλ Github Ομάδας: [Click](https://github.com/ContattoContare)
+Προφίλ Github Ομάδας: [Ομάδα Github](https://github.com/ContattoContare)
 
 Όνομα Προφίλ Edpuzzle: Stergios Moutzikos inf2021149
 
