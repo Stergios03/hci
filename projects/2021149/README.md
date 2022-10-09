@@ -2,7 +2,7 @@
 
 Α.Μ : inf2021149
 
-νοματεπώνυμο : Στέργιος Μουτζίκος
+Ονοματεπώνυμο : Στέργιος Μουτζίκος
 
 Προφίλ Github: [Click] https://github.com/StergiosMoutzikos
 
