@@ -4,7 +4,7 @@
 
 Ονοματεπώνυμο : Στέργιος Μουτζίκος
 
-Προφίλ Github: [Προφίλ GitHub] (https://github.com/StergiosMoutzikos)
+Προφίλ Github: [Προφίλ GitHub](https://github.com/StergiosMoutzikos)
 
 Προφίλ Github Ομάδας: [Ομάδα Github](https://github.com/ContattoContare)
 
