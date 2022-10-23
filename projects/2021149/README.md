@@ -58,4 +58,15 @@
 
 
 
-## Εβδομάδα τρίτη - Άσκηση συμμετοχικού περιεχομένου μ
+## Εβδομάδα τρίτη - Άσκηση συμμετοχικού περιεχομένου Α1
+
+&nbsp;&nbsp;&nbsp;Για την δραστηριότητα της τρίτης εβδομάδας (συμμετοχικό περιεχόμενο Α1) πρόσθεσα φωτογραφίες για το apple II desktop και 
+Linux mint .
+
+ [netlink_linuxmint](https://delicate-kitsune-343452.netlify.app/gallery/linuxmint/)
+[netlink_files_startup_apple](https://delicate-kitsune-343452.netlify.app/gallery/filesstartupapple/) 
+
+Τα pull requests :
+
+[pull_request_gallery](https://github.com/ContattoContare/_gallery/pull/7)
+[pull_request_images](https://github.com/ContattoContare/images/pull/7)
