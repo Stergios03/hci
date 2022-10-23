@@ -18,7 +18,7 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή| [Click](https://github.com/courses-ionio/help/discussions/894) | |
 | 2 | Άσκηση γραμμής εντολών (linux install)|[Click](https://github.com/courses-ionio/help/discussions/1066) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Click](https://github.com/courses-ionio/help/discussions/1205) |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -55,3 +55,7 @@
 
 ### journalctl
 [![asciicast](https://asciinema.org/a/X0bnOq7s3FHxgMUXreFFjsZht.svg)](https://asciinema.org/a/X0bnOq7s3FHxgMUXreFFjsZht)
+
+
+
+## Εβδομάδα τρίτη - Άσκηση συμμετοχικού περιεχομένου μ
