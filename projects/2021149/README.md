@@ -56,6 +56,7 @@
 ### journalctl
 [![asciicast](https://asciinema.org/a/evHbFuRmBr2O6jlItBq4mK90z.svg)](https://asciinema.org/a/evHbFuRmBr2O6jlItBq4mK90z)
 
+[Η αναφορά μου](https://github.com/StergiosMoutzikos/hci/blob/2021149/projects/2021149/README.md)
 
 
 ## Εβδομάδα τρίτη - Άσκηση συμμετοχικού περιεχομένου Α1
@@ -73,6 +74,8 @@ Linux mint .
 
 [pull_request_images](https://github.com/ContattoContare/images/pull/7)
 
+
+[Η αναφορά μου](https://github.com/StergiosMoutzikos/hci/blob/2021149/projects/2021149/README.md)
 
 
 ## Εβδομάδα τέταρτη - Άσκηση γραμμής εντολών
