@@ -51,10 +51,10 @@
 
 
 ### neofetch
-[![asciicast](https://asciinema.org/a/kYDeXGtecR3h88N8RKdhtu9lr.svg)](https://asciinema.org/a/kYDeXGtecR3h88N8RKdhtu9lr)
+[![asciicast](https://asciinema.org/a/Rm2ZqzkibmbxaAi0zixvRyohW.svg)](https://asciinema.org/a/Rm2ZqzkibmbxaAi0zixvRyohW)
 
 ### journalctl
-[![asciicast](https://asciinema.org/a/X0bnOq7s3FHxgMUXreFFjsZht.svg)](https://asciinema.org/a/X0bnOq7s3FHxgMUXreFFjsZht)
+[![asciicast](https://asciinema.org/a/evHbFuRmBr2O6jlItBq4mK90z.svg)](https://asciinema.org/a/evHbFuRmBr2O6jlItBq4mK90z)
 
 
 
