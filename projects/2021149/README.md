@@ -72,3 +72,7 @@ Linux mint .
 [pull_request_gallery](https://github.com/ContattoContare/_gallery/pull/7)
 
 [pull_request_images](https://github.com/ContattoContare/images/pull/7)
+
+## Εβδομάδα τέταρτη - Άσκηση γραμμής εντολών
+
+&nbsp;&nbsp;&nbsp;
