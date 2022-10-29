@@ -73,6 +73,15 @@ Linux mint .
 
 [pull_request_images](https://github.com/ContattoContare/images/pull/7)
 
+
+
 ## Εβδομάδα τέταρτη - Άσκηση γραμμής εντολών
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Για το παραδοτέο της τετάρτης εβδομάδας ,από τις warm up ασκήσεις γραμμής εντολών , έκανα το check the weather για την πόλη της Κέρκυρας.
+
+[CheckTheWeather ](https://asciinema.org/a/6u5Zm0H6863NyaSdodMkMXqzN)
+
+[![asciicast](https://asciinema.org/a/6u5Zm0H6863NyaSdodMkMXqzN.svg)](https://asciinema.org/a/6u5Zm0H6863NyaSdodMkMXqzN)
+
+
+[Η αναφορά μου](https://github.com/StergiosMoutzikos/hci/blob/2021149/projects/2021149/README.md)
